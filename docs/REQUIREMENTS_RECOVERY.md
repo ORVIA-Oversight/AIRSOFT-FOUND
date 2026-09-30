@@ -47,3 +47,29 @@ Airsoft Found is designed for international use from the start. Country packs co
 
 ## Outstanding production requirements
 Backend/auth/data; actual payments; real affiliate relationships; verified product/venue feeds; legal/terms; creator agreements; royalty ledger; booking; real scoring; hardware standardisation; media pipeline; country capability registry; final 10-image marketing pack; final consumer logo; live commercial purchase/onboarding journey.
+
+
+## Recovered Vanguard / FOUND EXPERIENCE
+Historic Vanguard Tactical Simulation material has been recovered as a relevant predecessor to a new physical-experience layer. Source documents include `Vanguard Tactical Appendix Two Business Model .pdf` and `need.docx` (VTS business-plan outline).
+
+Historic source-derived elements include purpose-built simulation/training areas, immersive VR, force-on-force-style simulation, equipment testing/product demos, corporate team-building, veteran/community audiences, recreational airsoft/tactical audiences, medical scenarios, urban/hostile-environment scenarios, embussing/debussing drills, personalised coaching, virtual courses, open days, memberships, ecommerce/product sales and affiliate/influencer partnerships.
+
+The current proposed extension is **FOUND EXPERIENCE**: a multi-use immersive simulation, learning, airsoft and media venue. It should not be reduced to a "kill house". Potential zones include configurable CQB/scenario space, simulation house, street/shop/reception set, care/health simulation room, VR/digital suite, observation/media room, FOUND RANGE, Overwatch/SENSE command room, workshop/equipment lab and classroom/briefing area.
+
+Potential sellable layers: airsoft/MilSim; school/college immersive learning; corporate communication/leadership; third-party professional-training venue hire; media/film hire; manufacturer demo centre; veteran/community events; scenario-as-a-service.
+
+Schools/education must be framed around safe immersive learning, teamwork, communication, technology, role-play and reflective debrief — not weapons/tactical training.
+
+## Venue Business-in-a-Box
+Assess the physical venue as a future licensed Business-in-a-Box model: venue zoning/layout principles, website, booking, memberships, scenario library, school/corporate packages, Range, Airsoft Found marketplace links, Workshop, Overwatch/SENSE, media workflow, SOPs, equipment register and country-capability controls.
+
+Carry forward ORVIA BIAB controls: ORVIA owns licensed IP/framework; local operator owns company/customer environment; BYOA where appropriate; no password sharing; one controlled pilot before universal rollout; no guaranteed income; no fabricated accreditation; local law/regulation sits above ORVIA methodology.
+
+## AI master continuation brief
+The controlling AI handover is stored in SharePoint:
+`Airsoft Found/01 Master Handover/AIRSOFT_FOUND_AI_MASTER_CONTINUATION_BRIEF_V2_2026-09-30.md`
+
+A working copy also exists under:
+`Airsoft Found/08 Research and Partner Programme/AIRSOFT_FOUND_AI_MASTER_CONTINUATION_BRIEF_V2_2026-09-30.md`
+
+The brief interlinks partner research, Founding Partner scarcity research, affiliate work, FOUND EXPERIENCE, education/corporate/training/media venue layers, Venue Business-in-a-Box and the existing Airsoft Found ecosystem.
