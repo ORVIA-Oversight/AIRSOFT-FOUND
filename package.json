@@ -7,6 +7,6 @@
     "node": ">=22"
   },
   "dependencies": {
-    "@crawlee/cheerio": "4.0.0"
+    "@crawlee/cheerio": "3.18.2"
   }
 }
