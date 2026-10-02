@@ -13,7 +13,6 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
-          cache: npm
       - run: npm install --no-audit --no-fund
       - run: node --check api/_lib/scout-core.js
       - run: node --check api/scout.js
