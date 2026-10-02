@@ -1,0 +1,12 @@
+{
+  "name": "airsoft-found",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@crawlee/cheerio": "4.0.0"
+  }
+}
