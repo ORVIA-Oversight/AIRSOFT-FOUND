@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FOUND Scout | Airsoft Found Operations</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/scout/scout.css">
+</head>
+<body class="scout-page">
+<header class="scout-head"><a href="/" class="brand"><span class="mark"><i></i><b>A</b></span><span><strong>AIRSOFT<br>FOUND</strong><small>FOUND SCOUT · INTERNAL BETA</small></span></a><span class="scout-status">PUBLIC-WEB RESEARCH</span></header>
+<main class="scout-wrap">
+<section class="scout-hero">
+<div><span class="eyebrow">FOUND SCOUT</span><h1>Find the resource.<br><em>Keep the source.</em></h1><p>Research public retailer, venue, event, specialist and product pages and turn them into structured Airsoft Found resource candidates.</p></div>
+<div class="scout-rules"><b>Discovery, not blind publishing.</b><span>Source-linked</span><span>Duplicate-aware</span><span>Human approval</span><span>No login bypass</span></div>
+</section>
+<section class="scout-console">
+<label>Access key<input id="key" type="password" placeholder="FOUND_SCOUT_KEY"></label>
+<label>Public seed URL<input id="url" type="url" placeholder="https://example-airsoft-shop.co.uk/"></label>
+<div class="scout-grid">
+<label>Resource type<select id="type"><option>AUTO</option><option>PRODUCT</option><option>BUSINESS</option><option>EVENT</option><option>RANGE</option><option>SPECIALIST</option><option>RETAILER</option></select></label>
+<label>Page limit<input id="pages" type="number" min="1" max="20" value="8"></label>
+<label class="check"><input id="follow" type="checkbox" checked> Follow same-site links</label>
+</div>
+<div class="scout-actions"><button class="primary" id="run">RUN SCOUT</button><button class="ghost" id="crawl4">DEEP EXTRACT WITH CRAWL4AI</button></div>
+<p id="state" class="scout-state">Ready.</p>
+</section>
+<section>
+<div class="section-head dark"><span>DISCOVERED CANDIDATES</span><h2 id="count">Nothing scanned yet.</h2><p>Review before adding anything to the marketplace or partner database.</p></div>
+<div id="results" class="scout-results"></div>
+</section>
+</main>
+<script type="module" src="/scout/scout.js"></script>
+</body></html>
