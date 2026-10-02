@@ -1,0 +1,21 @@
+name: FOUND Scout verification
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm install --no-audit --no-fund
+      - run: node --check api/_lib/scout-core.js
+      - run: node --check api/scout.js
+      - run: node --check api/scout-crawl4ai.js
+      - run: node --check scout/scout.js
